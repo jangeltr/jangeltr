@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Angel Torres
-- 👀 I’m interested in Web Programing with Nodejs
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me ...jangeltr@gmail.com
+Hola!
 
-<!---
-jangeltr/jangeltr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Soy Angel Torres, y me enorgullece ser parte del equipo docente del Tecnológico de Tlajomulco desde el año 2000. Durante más de dos décadas, he tenido el privilegio de impartir materias relacionadas con bases de datos y programación en esta prestigiosa institución. A lo largo de mi carrera, he tenido la oportunidad de compartir mi pasión por la tecnología y la informática con numerosos estudiantes, brindándoles las herramientas y conocimientos necesarios para enfrentar los desafíos del mundo digital. Mi compromiso con la educación y el constante aprendizaje me ha permitido mantenerme actualizado en un campo en constante evolución, y espero seguir contribuyendo al crecimiento académico y profesional de los futuros ingenieros y profesionales de la tecnología en el Tecnológico de Tlajomulco.
