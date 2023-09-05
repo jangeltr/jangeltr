@@ -12,8 +12,7 @@ En el Tecnologico he impartido materias como:
   - Programacion Web
   - Gestion de Proyectos de Software
 
- Gestores de Bases de Datos con las que he trabajado
-  - Sql Server
+ Gestores de Bases de Datos con los que actualmente trabajo
   - MySql
   - MongoDB
 
