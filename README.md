@@ -21,3 +21,4 @@ Soy Angel Torres, y me enorgullece ser parte del equipo docente del Tecnológico
   - Astro
   - React
   - NestJs
+  - Tailwindcss
