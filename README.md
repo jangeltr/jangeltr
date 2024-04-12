@@ -13,6 +13,7 @@ Soy Angel Torres, y me enorgullece ser parte del equipo docente del Tecnológico
 ### Durante mi etapa de docente he trabajado y enseñado
   - C#
   - Java
+  - JavaScript
     
 ### En el Tecnologico he impartido materias como:
   - Matematicas Discretas.
