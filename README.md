@@ -24,9 +24,12 @@ Soy Angel Torres, y me enorgullece ser parte del equipo docente del Tecnológico
   - Admon. de Bases de Datos
   - Programacion Web
   - Gestion de Proyectos de Software
+  - Topicos selectos de Bases de Datos
+  - Computo en la nube
 
 ### Gestores de Bases de Datos con los que actualmente trabajo
   - MySql
+  - Postgresql
   - MongoDB
 
 ### Lenguajes, librerias y Frameworks con los que actualmente trabajo
